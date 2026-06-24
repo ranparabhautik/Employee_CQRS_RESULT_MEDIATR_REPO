@@ -1,0 +1,6 @@
+@Employee_Result_CQRS_MediatR_Repo_HostAddress = http://localhost:5020
+
+GET {{Employee_Result_CQRS_MediatR_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
