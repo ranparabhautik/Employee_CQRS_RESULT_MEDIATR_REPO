@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\getallemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\getallemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\repository\\queryrepository\\interface\\igenericqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\repository\\queryrepository\\interface\\igenericqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\exception\\globalexceptionhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\exception\\globalexceptionhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\extension methods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\extension methods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\implementation\\genericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\implementation\\genericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\exception\\globalexceptionhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\exception\\globalexceptionhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\getallemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\getallemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\validator\\updateemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\validator\\updateemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\implementation\\genericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\implementation\\genericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\command\\employeeupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\deleteemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\interface\\igenericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\repository\\commandrepository\\interface\\igenericcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,14 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\models\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\models\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,14 +127,6 @@
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\handler\\updateemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\repository\\queryrepository\\interface\\igenericqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\repository\\queryrepository\\interface\\igenericqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\employee_result_cqrs_mediatr_repo\\employee_result_cqrs_mediatr_repo\\feature\\employee\\query\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824371DB-4A0F-9C9E-A91F-27FED4F8CEAB}|Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo.csproj|solutionrelative:employee_result_cqrs_mediatr_repo\\feature\\employee\\query\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -134,141 +142,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeUpdateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:32:14.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericCommandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:32:07.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Program.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Program.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Program.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T08:06:54.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GlobalExceptionHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Extension Methods\\StringExtension.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Extension Methods\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Extension Methods\\StringExtension.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Extension Methods\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T11:52:51.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetAllEmployeeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:34:36.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateEmployeeValidator.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T12:07:12.332Z",
+              "WhenOpened": "2026-06-30T10:13:40.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\GlobalUsing.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T06:34:26.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\UpdateEmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T12:07:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Behavior\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Behavior\\ValidationBehavior.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Behavior\\ValidationBehavior.cs",
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Behavior\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T12:11:31.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeDeleteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:32:29.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T12:11:31.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EmployeeCreateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:31:53.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateEmployeeValidator.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T12:01:04.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Controllers\\EmployeeController.cs",
@@ -280,120 +208,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T10:29:18.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:27:58.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T10:27:28.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:59:15.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmployeeMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:39:29.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetAllEmployeeQuery.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:33:09.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "CreateEmployeeHandler.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\CreateEmployeeHandler.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\CreateEmployeeHandler.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\CreateEmployeeHandler.cs",
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\CreateEmployeeHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T09:33:56.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IGenericQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:59:22.746Z"
+              "WhenOpened": "2026-06-23T09:26:24.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GetAllEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetAllEmployeeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:59:29.136Z"
+              "WhenOpened": "2026-06-23T09:34:36.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
+              "Title": "GlobalExceptionHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Exception\\GlobalExceptionHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:52:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Program.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Program.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:06:54.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Data\\AppDbContext.cs",
@@ -405,7 +282,175 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:42:52.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Implementation\\GenericCommandRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:32:07.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeUpdateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:32:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:32:29.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Command\\EmployeeCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:31:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateEmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Validator\\CreateEmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T12:01:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\EmployeeQueryRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:29:18.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Implementation\\GenericQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:27:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:27:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:59:15.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Mappings\\EmployeeMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:39:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetAllEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:33:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:59:22.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Models\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:59:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "GetByIdEmployeeHandler.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetByIdEmployeeHandler.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetByIdEmployeeHandler.cs",
@@ -413,12 +458,11 @@
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\GetByIdEmployeeHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:34:51.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T09:34:51.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "DeleteEmployeeHandler.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\DeleteEmployeeHandler.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\DeleteEmployeeHandler.cs",
@@ -426,12 +470,11 @@
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\DeleteEmployeeHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:34:24.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T09:34:24.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\appsettings.json",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\appsettings.json",
@@ -443,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "UpdateEmployeeHandler.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\UpdateEmployeeHandler.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Handler\\UpdateEmployeeHandler.cs",
@@ -455,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "IGenericCommandRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Interface\\IGenericCommandRepository.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Interface\\IGenericCommandRepository.cs",
@@ -463,12 +506,11 @@
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\CommandRepository\\Interface\\IGenericCommandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:32:05.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T08:32:05.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IEmployeeQueryRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IEmployeeQueryRepository.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IEmployeeQueryRepository.cs",
@@ -476,12 +518,11 @@
               "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IEmployeeQueryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T10:25:16.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T10:25:16.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Exceptions\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Exceptions\\GlobalExceptionHandler.cs",
@@ -493,31 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IGenericQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Repository\\QueryRepository\\Interface\\IGenericQueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:26:24.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
-              "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
-              "RelativeToolTip": "Employee_Result_CQRS_MediatR_Repo\\Result\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:42:52.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "GetByIDEmployeeQuery.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\Employee_Result_CQRS_MediatR_Repo\\Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetByIDEmployeeQuery.cs",
               "RelativeDocumentMoniker": "Employee_Result_CQRS_MediatR_Repo\\Feature\\Employee\\Query\\GetByIDEmployeeQuery.cs",

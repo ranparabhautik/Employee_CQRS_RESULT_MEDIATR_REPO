@@ -24,7 +24,7 @@ public class GetAllEmployeeHandler(IEmployeeQueryRepository emprepo, IMapper map
             }
             var empresult = mapper.Map<IEnumerable<EmployeeDTO>>(employees);
             Console.WriteLine("Fetching from Database");
-            cache.Set(cachekey,empresult,TimeSpan.FromMinutes(10));
+            cache.Set(cachekey,empresult,TimeSpan.FromMinutes(1));
             return Result<IEnumerable<EmployeeDTO>>.Success(empresult);
         }
 

@@ -1,4 +1,6 @@
-﻿namespace Employee_Result_CQRS_MediatR_Repo.Feature.Employee.Handler
+﻿using Employee_Result_CQRS_MediatR_Repo.Extension_Methods;
+
+namespace Employee_Result_CQRS_MediatR_Repo.Feature.Employee.Handler
 {
     public class CreateEmployeeHandler(IEmployeeQueryRepository emprepo, IGenericCommandRepository<Employees> cmdrepo,IMapper mapper) : IRequestHandler<EmployeeCreateCommand, Result<int>>
     {
@@ -11,6 +13,11 @@
             var emailexist = await emprepo.EmailExistAsync(request.Email);
             if (!emailexist)
             {
+                if(request.EmpName.GetCountWords() > 2)
+                {
+                    return Result<int>.Failure("Name must be of 2 words");
+                }
+
                 var emp = mapper.Map<Employees>(request);
                 await cmdrepo.CreateAsync(emp);
                 return Result<int>.Success(emp.Id);
